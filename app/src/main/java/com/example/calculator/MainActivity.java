@@ -3,6 +3,7 @@ package com.example.calculator;
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.annotation.SuppressLint;
 import android.os.Bundle;
 import android.os.PersistableBundle;
 import android.view.View;
@@ -53,6 +54,27 @@ public class MainActivity extends AppCompatActivity {
         Button buttonMinus = (Button) findViewById(R.id.buttonMinus);
         Button buttonPlus = (Button) findViewById(R.id.buttonPlus);
 
+        Button buttonNeg = (Button) findViewById(R.id.buttonNeg);
+        View.OnClickListener negListener = new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                String value = newNumber.getText().toString();
+                if (value.length() == 0) {
+                    newNumber.setText("-");
+                } else {
+                    try {
+                        Double doubleValue = Double.valueOf(value);
+                        doubleValue *= -1;
+                        newNumber.setText(doubleValue.toString());
+                    } catch (NumberFormatException e) {
+                        newNumber.setText("");
+                    }
+                }
+            }
+        };
+
+
+
         View.OnClickListener listener = new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -72,6 +94,8 @@ public class MainActivity extends AppCompatActivity {
         button8.setOnClickListener(listener);
         button9.setOnClickListener(listener);
         buttonDot.setOnClickListener(listener);
+
+        buttonNeg.setOnClickListener(negListener);
 
 
         View.OnClickListener opListener = new View.OnClickListener() {
