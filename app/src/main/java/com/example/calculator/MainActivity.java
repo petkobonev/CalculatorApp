@@ -54,6 +54,34 @@ public class MainActivity extends AppCompatActivity {
         Button buttonMinus = (Button) findViewById(R.id.buttonMinus);
         Button buttonPlus = (Button) findViewById(R.id.buttonPlus);
 
+        Button buttonCE = (Button) findViewById(R.id.buttonCE);
+        buttonCE.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                String value = "";
+                newNumber.setText(value);
+
+
+                String resultValue = result.getText().toString();
+
+                if (resultValue.length() > 0){
+                    result.setText("0");
+                    operand1 = null;
+
+                }
+
+
+                }
+
+
+
+
+
+            });
+
+
+
+
         Button buttonNeg = (Button) findViewById(R.id.buttonNeg);
         View.OnClickListener negListener = new View.OnClickListener() {
             @Override
