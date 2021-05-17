@@ -1,0 +1,12 @@
+<application>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/layout/activity_master_slider.xml" value="0.38385416666666666" />
+        <entry key="app/src/main/res/layout/activity_nursing_slider.xml" value="0.38385416666666666" />
+        <entry key="app/src/main/res/layout/fragment_medical_topics.xml" value="0.4625" />
+        <entry key="app/src/main/res/layout/fragment_topics_courses.xml" value="0.4625" />
+      </map>
+    </option>
+  </component>
+</application>
