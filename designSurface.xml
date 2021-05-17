@@ -2,8 +2,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/layout-land/container_nursing_image.xml" value="0.49955908289241624" />
         <entry key="app/src/main/res/layout/activity_master_slider.xml" value="0.38385416666666666" />
         <entry key="app/src/main/res/layout/activity_nursing_slider.xml" value="0.38385416666666666" />
+        <entry key="app/src/main/res/layout/container_image.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/container_nursing_image.xml" value="0.5" />
         <entry key="app/src/main/res/layout/fragment_medical_topics.xml" value="0.4625" />
         <entry key="app/src/main/res/layout/fragment_topics_courses.xml" value="0.4625" />
       </map>
