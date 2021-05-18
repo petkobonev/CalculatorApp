@@ -12,6 +12,9 @@
         <entry key="app/src/main/res/layout/container_image.xml" value="0.5" />
         <entry key="app/src/main/res/layout/container_nursing_image.xml" value="0.5" />
         <entry key="app/src/main/res/layout/fragment_medical_topics.xml" value="0.4625" />
+        <entry key="app/src/main/res/layout/fragment_nursing_slider1.xml" value="0.45" />
+        <entry key="app/src/main/res/layout/fragment_nursing_slider2.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_nursing_slider3.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment_topics_courses.xml" value="0.4625" />
         <entry key="app/src/nursing/res/drawable/ic_app_logo_green.xml" value="0.41770833333333335" />
         <entry key="app/src/nursing/res/drawable/ic_launcher_foreground.xml" value="0.41770833333333335" />
