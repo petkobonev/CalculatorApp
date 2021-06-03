@@ -9,6 +9,8 @@
         <entry key="app/src/main/res/drawable/ic_check_circle_24px.xml" value="0.4609375" />
         <entry key="app/src/main/res/layout-land/activity_nursing_slider.xml" value="0.37742504409171074" />
         <entry key="app/src/main/res/layout-land/container_nursing_image.xml" value="0.49955908289241624" />
+        <entry key="app/src/main/res/layout-sw600dp/activity_nursing_slider.xml" value="0.334375" />
+        <entry key="app/src/main/res/layout-sw600dp/fragment_nursing_slider2.xml" value="0.334375" />
         <entry key="app/src/main/res/layout/activity_container.xml" value="0.4221014492753623" />
         <entry key="app/src/main/res/layout/activity_enter_book_page.xml" value="0.38385416666666666" />
         <entry key="app/src/main/res/layout/activity_master_slider.xml" value="0.40260416666666665" />
