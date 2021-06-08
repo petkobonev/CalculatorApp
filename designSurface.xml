@@ -35,6 +35,9 @@
         <entry key="app/src/main/res/layout/layout_button_cta_transparent.xml" value="0.40260416666666665" />
         <entry key="app/src/nursing/res/drawable/ic_app_logo_green.xml" value="0.41770833333333335" />
         <entry key="app/src/nursing/res/drawable/ic_launcher_foreground.xml" value="0.41770833333333335" />
+        <entry key="app/src/studienkreis/res/drawable-v24/ic_launcher_background.xml" value="0.4609375" />
+        <entry key="app/src/studienkreis/res/drawable-v24/ic_launcher_foreground.xml" value="0.4609375" />
+        <entry key="app/src/studienkreis/res/drawable/ic_launcher_background.xml" value="0.4609375" />
       </map>
     </option>
   </component>
