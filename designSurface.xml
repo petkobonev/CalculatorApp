@@ -8,9 +8,12 @@
         <entry key="app/src/main/res/drawable/ic_assignment_completed.xml" value="0.41770833333333335" />
         <entry key="app/src/main/res/drawable/ic_check_blue_24px.xml" value="0.4609375" />
         <entry key="app/src/main/res/drawable/ic_check_circle_24px.xml" value="0.4609375" />
+        <entry key="app/src/main/res/drawable/ic_dosage_calculation.xml" value="0.4609375" />
         <entry key="app/src/main/res/drawable/ic_header_logo.xml" value="0.4140625" />
         <entry key="app/src/main/res/drawable/ic_lecturio_logo_white.xml" value="0.4140625" />
         <entry key="app/src/main/res/drawable/ic_medical_surgical.xml" value="0.4609375" />
+        <entry key="app/src/main/res/drawable/ic_nursing_fundamentals.xml" value="0.4609375" />
+        <entry key="app/src/main/res/drawable/ic_pediatric.xml" value="0.4609375" />
         <entry key="app/src/main/res/drawable/ic_pharmacology.xml" value="0.4609375" />
         <entry key="app/src/main/res/layout-land/activity_nursing_slider.xml" value="0.37742504409171074" />
         <entry key="app/src/main/res/layout-land/container_nursing_image.xml" value="0.49955908289241624" />
@@ -39,6 +42,7 @@
         <entry key="app/src/main/res/layout/fragment_topics_courses.xml" value="0.4625" />
         <entry key="app/src/main/res/layout/item_resources_card.xml" value="0.5" />
         <entry key="app/src/main/res/layout/layout_button_cta_transparent.xml" value="0.40260416666666665" />
+        <entry key="app/src/main/res/layout/layout_courses_video_search.xml" value="0.44583333333333336" />
         <entry key="app/src/main/res/layout/patient_notes_fragment.xml" value="0.3151041666666667" />
         <entry key="app/src/main/res/xml/preferences.xml" value="0.44583333333333336" />
         <entry key="app/src/nursing/res/drawable/ic_app_logo_green.xml" value="0.41770833333333335" />
