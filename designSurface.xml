@@ -15,6 +15,9 @@
         <entry key="app/src/main/res/drawable/ic_nursing_fundamentals.xml" value="0.4609375" />
         <entry key="app/src/main/res/drawable/ic_pediatric.xml" value="0.4609375" />
         <entry key="app/src/main/res/drawable/ic_pharmacology.xml" value="0.4609375" />
+        <entry key="app/src/main/res/drawable/ic_video_slider_3.xml" value="0.4609375" />
+        <entry key="app/src/main/res/drawable/ic_video_slider_5.xml" value="0.4609375" />
+        <entry key="app/src/main/res/drawable/ic_vldeo_slider_2.xml" value="0.4609375" />
         <entry key="app/src/main/res/layout-land/activity_nursing_slider.xml" value="0.37742504409171074" />
         <entry key="app/src/main/res/layout-land/container_nursing_image.xml" value="0.49955908289241624" />
         <entry key="app/src/main/res/layout-sw600dp/activity_nursing_slider.xml" value="0.334375" />
