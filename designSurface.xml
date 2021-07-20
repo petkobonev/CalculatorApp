@@ -50,6 +50,7 @@
         <entry key="app/src/main/res/layout/fragment_nursing_slider3.xml" value="0.44583333333333336" />
         <entry key="app/src/main/res/layout/fragment_nursing_subscription.xml" value="0.4583333333333333" />
         <entry key="app/src/main/res/layout/fragment_quiz_overview_spaced_repetition.xml" value="0.365625" />
+        <entry key="app/src/main/res/layout/fragment_reset_spaced_repetition_deck.xml" value="0.5" />
         <entry key="app/src/main/res/layout/fragment_subsription.xml" value="0.4116847826086957" />
         <entry key="app/src/main/res/layout/fragment_tab_more.xml" value="0.396286231884058" />
         <entry key="app/src/main/res/layout/fragment_topic_reviews.xml" value="0.40260416666666665" />
