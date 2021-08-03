@@ -52,10 +52,13 @@
         <entry key="app/src/main/res/layout/activity_study_planner_filter.xml" value="0.3536458333333333" />
         <entry key="app/src/main/res/layout/container_image.xml" value="0.5" />
         <entry key="app/src/main/res/layout/container_nursing_image.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/content_spaced_repetition_no_connection_header.xml" value="0.48541666666666666" />
         <entry key="app/src/main/res/layout/fragment_assignments.xml" value="0.3536458333333333" />
         <entry key="app/src/main/res/layout/fragment_authentication.xml" value="0.3546875" />
         <entry key="app/src/main/res/layout/fragment_bookmarks.xml" value="0.3536458333333333" />
         <entry key="app/src/main/res/layout/fragment_course_trinity_tabs.xml" value="0.3536458333333333" />
+        <entry key="app/src/main/res/layout/fragment_exam_prep_container.xml" value="0.39895833333333336" />
+        <entry key="app/src/main/res/layout/fragment_exam_preparation_catalogs.xml" value="0.38269927536231885" />
         <entry key="app/src/main/res/layout/fragment_feedback.xml" value="0.3536458333333333" />
         <entry key="app/src/main/res/layout/fragment_free_trial_on_demand.xml" value="0.44166666666666665" />
         <entry key="app/src/main/res/layout/fragment_medical_confirm_account.xml" value="0.3458333333333333" />
@@ -67,9 +70,9 @@
         <entry key="app/src/main/res/layout/fragment_nursing_slider3.xml" value="0.44583333333333336" />
         <entry key="app/src/main/res/layout/fragment_nursing_subscription.xml" value="0.4583333333333333" />
         <entry key="app/src/main/res/layout/fragment_qbank_home.xml" value="0.3536458333333333" />
-        <entry key="app/src/main/res/layout/fragment_quiz_overview_spaced_repetition.xml" value="0.365625" />
-        <entry key="app/src/main/res/layout/fragment_quiz_question.xml" value="0.3536458333333333" />
-        <entry key="app/src/main/res/layout/fragment_quiz_question_spaced_repetition.xml" value="0.3536458333333333" />
+        <entry key="app/src/main/res/layout/fragment_quiz_overview_spaced_repetition.xml" value="0.38269927536231885" />
+        <entry key="app/src/main/res/layout/fragment_quiz_question.xml" value="0.39895833333333336" />
+        <entry key="app/src/main/res/layout/fragment_quiz_question_spaced_repetition.xml" value="0.39895833333333336" />
         <entry key="app/src/main/res/layout/fragment_reset_spaced_repetition_deck.xml" value="0.5" />
         <entry key="app/src/main/res/layout/fragment_subsription.xml" value="0.4116847826086957" />
         <entry key="app/src/main/res/layout/fragment_tab_more.xml" value="0.396286231884058" />
