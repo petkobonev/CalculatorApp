@@ -6,7 +6,9 @@
         <entry key="../../../../layout/custom_preview.xml" value="0.38125" />
         <entry key="MPChartExample/src/main/res/layout/activity_linechart.xml" value="0.3546875" />
         <entry key="MPChartExample/src/main/res/layout/activity_testactivity.xml" value="0.3546875" />
+        <entry key="MPChartExample/src/main/res/layout/custom_marker_view.xml" value="0.3546875" />
         <entry key="MPChartExample/src/main/res/layout/fragment_line_chart.xml" value="0.1" />
+        <entry key="MPChartExample/src/main/res/layout/radar_markerview.xml" value="0.3546875" />
         <entry key="app/src/awinta/res/layout/activity_master_slider.xml" value="0.48541666666666666" />
         <entry key="app/src/bdu/res/layout/activity_login.xml" value="0.44166666666666665" />
         <entry key="app/src/bdu/res/layout/activity_master_slider.xml" value="0.44166666666666665" />
@@ -60,7 +62,8 @@
         <entry key="app/src/main/res/layout/container_image.xml" value="0.5" />
         <entry key="app/src/main/res/layout/container_nursing_image.xml" value="0.5" />
         <entry key="app/src/main/res/layout/content_spaced_repetition_no_connection_header.xml" value="0.48541666666666666" />
-        <entry key="app/src/main/res/layout/fragment_assignments.xml" value="0.3536458333333333" />
+        <entry key="app/src/main/res/layout/custom_marker_view.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/fragment_assignments.xml" value="0.3763586956521739" />
         <entry key="app/src/main/res/layout/fragment_authentication.xml" value="0.3546875" />
         <entry key="app/src/main/res/layout/fragment_bookmarks.xml" value="0.3536458333333333" />
         <entry key="app/src/main/res/layout/fragment_chart.xml" value="0.5" />
@@ -90,6 +93,7 @@
         <entry key="app/src/main/res/layout/layout_button_cta_transparent.xml" value="0.40260416666666665" />
         <entry key="app/src/main/res/layout/layout_courses_video_search.xml" value="0.44583333333333336" />
         <entry key="app/src/main/res/layout/patient_notes_fragment.xml" value="0.3151041666666667" />
+        <entry key="app/src/main/res/layout/radar_market_view.xml" value="0.5" />
         <entry key="app/src/main/res/layout/widget_button.xml" value="0.3546875" />
         <entry key="app/src/main/res/layout/widget_camera.xml" value="0.3546875" />
         <entry key="app/src/main/res/xml/heyflow_defaults.xml" value="0.48541666666666666" />
