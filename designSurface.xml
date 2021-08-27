@@ -92,7 +92,8 @@
         <entry key="app/src/main/res/layout/fragment_tab_more.xml" value="0.396286231884058" />
         <entry key="app/src/main/res/layout/fragment_topic_reviews.xml" value="0.40260416666666665" />
         <entry key="app/src/main/res/layout/fragment_topics_courses.xml" value="0.4625" />
-        <entry key="app/src/main/res/layout/item_exam_sub_category.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/item_exam_category.xml" value="0.19635416666666666" />
+        <entry key="app/src/main/res/layout/item_exam_sub_category.xml" value="0.42028985507246375" />
         <entry key="app/src/main/res/layout/item_recycler_view.xml" value="0.5" />
         <entry key="app/src/main/res/layout/item_resources_card.xml" value="0.5" />
         <entry key="app/src/main/res/layout/layout_button_cta_transparent.xml" value="0.40260416666666665" />
