@@ -39,6 +39,7 @@
         <entry key="app/src/main/res/layout-sw600dp/activity_nursing_slider.xml" value="0.334375" />
         <entry key="app/src/main/res/layout-sw600dp/fragment_nursing_slider2.xml" value="0.334375" />
         <entry key="app/src/main/res/layout-sw600dp/fragment_nursing_slider3.xml" value="0.442578125" />
+        <entry key="app/src/main/res/layout-v23/fragment_chart.xml" value="0.33489583333333334" />
         <entry key="app/src/main/res/layout/activity_assignments.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_autologin.xml" value="0.3858695652173913" />
         <entry key="app/src/main/res/layout/activity_card_video.xml" value="0.4216485507246377" />
