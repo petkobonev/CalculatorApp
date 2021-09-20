@@ -121,6 +121,8 @@
         <entry key="app/src/olfu/res/drawable-v24/ic_launcher_background.xml" value="0.4609375" />
         <entry key="app/src/olfu/res/mipmap-anydpi-v26/ic_app_launcher.xml" value="0.4609375" />
         <entry key="app/src/olfu/res/mipmap-anydpi-v26/ic_app_launcher_round.xml" value="0.4609375" />
+        <entry key="app/src/rollon/res/layout/activity_login.xml" value="0.33489583333333334" />
+        <entry key="app/src/rollon/res/layout/activity_master_slider.xml" value="0.33489583333333334" />
         <entry key="app/src/sampleMed/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.4010416666666667" />
         <entry key="app/src/sechenov/res/drawable-v24/ic_launcher_background.xml" value="0.318974358974359" />
         <entry key="app/src/sechenov/res/drawable/ic_launcher_background.xml" value="0.32395833333333335" />
