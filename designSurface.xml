@@ -90,6 +90,7 @@
         <entry key="app/src/main/res/layout/fragment_medical_confirm_account.xml" value="0.3458333333333333" />
         <entry key="app/src/main/res/layout/fragment_medical_topics.xml" value="0.4625" />
         <entry key="app/src/main/res/layout/fragment_no_book_page_results.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/fragment_notes.xml" value="0.29375" />
         <entry key="app/src/main/res/layout/fragment_notes_overview.xml" value="0.41304347826086957" />
         <entry key="app/src/main/res/layout/fragment_nursing_slider1.xml" value="0.45" />
         <entry key="app/src/main/res/layout/fragment_nursing_slider2.xml" value="0.4116847826086957" />
@@ -111,11 +112,13 @@
         <entry key="app/src/main/res/layout/item_resources_card.xml" value="0.5" />
         <entry key="app/src/main/res/layout/layout_button_cta_transparent.xml" value="0.40260416666666665" />
         <entry key="app/src/main/res/layout/layout_courses_video_search.xml" value="0.44583333333333336" />
+        <entry key="app/src/main/res/layout/list_item_video_lecture.xml" value="0.29375" />
         <entry key="app/src/main/res/layout/listitem_patient_note.xml" value="0.33489583333333334" />
         <entry key="app/src/main/res/layout/patient_note_data_fragment.xml" value="0.33489583333333334" />
         <entry key="app/src/main/res/layout/patient_notes_fragment.xml" value="0.33489583333333334" />
         <entry key="app/src/main/res/layout/radar_market_view.xml" value="0.5" />
         <entry key="app/src/main/res/layout/study_planner_filter_fragment.xml" value="0.3763586956521739" />
+        <entry key="app/src/main/res/layout/view_rating_bar.xml" value="0.29375" />
         <entry key="app/src/main/res/layout/widget_button.xml" value="0.3546875" />
         <entry key="app/src/main/res/layout/widget_camera.xml" value="0.3546875" />
         <entry key="app/src/main/res/xml/heyflow_defaults.xml" value="0.48541666666666666" />
