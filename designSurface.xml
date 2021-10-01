@@ -115,6 +115,7 @@
         <entry key="app/src/main/res/layout/layout_button_cta_transparent.xml" value="0.40260416666666665" />
         <entry key="app/src/main/res/layout/layout_courses_video_search.xml" value="0.44583333333333336" />
         <entry key="app/src/main/res/layout/list_item_video_lecture.xml" value="0.29375" />
+        <entry key="app/src/main/res/layout/listitem_note.xml" value="0.19947916666666668" />
         <entry key="app/src/main/res/layout/listitem_patient_note.xml" value="0.33489583333333334" />
         <entry key="app/src/main/res/layout/patient_note_data_fragment.xml" value="0.33489583333333334" />
         <entry key="app/src/main/res/layout/patient_notes_fragment.xml" value="0.33489583333333334" />
