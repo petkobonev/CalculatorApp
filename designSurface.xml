@@ -135,7 +135,7 @@
         <entry key="app/src/main/res/menu/context_home_menu.xml" value="0.40260416666666665" />
         <entry key="app/src/main/res/menu/context_menu_offline.xml" value="0.40260416666666665" />
         <entry key="app/src/main/res/menu/context_trial.xml" value="0.19947916666666668" />
-        <entry key="app/src/main/res/menu/context_video_lecture.xml" value="0.40260416666666665" />
+        <entry key="app/src/main/res/menu/context_video_lecture.xml" value="0.5" />
         <entry key="app/src/main/res/menu/context_video_lecture_overlay.xml" value="0.40260416666666665" />
         <entry key="app/src/main/res/xml/heyflow_defaults.xml" value="0.48541666666666666" />
         <entry key="app/src/main/res/xml/manage_shortcuts.xml" value="0.5" />
