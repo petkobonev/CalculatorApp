@@ -164,6 +164,7 @@
         <entry key="app/src/studienkreis/res/drawable-v24/ic_launcher_foreground.xml" value="0.4609375" />
         <entry key="app/src/studienkreis/res/drawable/ic_launcher_background.xml" value="0.4609375" />
         <entry key="app/src/taug/res/mipmap-anydpi-v26/ic_app_launcher.xml" value="0.5" />
+        <entry key="app/src/viessmann/res/layout/activity_master_slider.xml" value="0.33541666666666664" />
       </map>
     </option>
   </component>
