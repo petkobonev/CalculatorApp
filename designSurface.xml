@@ -18,8 +18,12 @@
         <entry key="app/src/dvfa/res/mipmap-anydpi-v26/ic_app_launcher_round.xml" value="0.5" />
         <entry key="app/src/easy/res/drawable/app_logo_green.xml" value="0.5" />
         <entry key="app/src/lecturio/res/xml/preferences.xml" value="0.5" />
+        <entry key="app/src/lecturiomed/res/layout/activity_login.xml" value="0.446875" />
         <entry key="app/src/lecturiomed/res/xml/preferences.xml" value="0.4116847826086957" />
+        <entry key="app/src/main/res/drawable/border_green_quiz.xml" value="0.46197916666666666" />
+        <entry key="app/src/main/res/drawable/border_green_quiz_spaced_button_full.xml" value="0.46197916666666666" />
         <entry key="app/src/main/res/drawable/border_light_gray.xml" value="0.46197916666666666" />
+        <entry key="app/src/main/res/drawable/border_light_gray_full.xml" value="0.46197916666666666" />
         <entry key="app/src/main/res/drawable/button_primary.xml" value="0.46197916666666666" />
         <entry key="app/src/main/res/drawable/ic_android_debug_bridge.xml" value="0.3697916666666667" />
         <entry key="app/src/main/res/drawable/ic_assignment_completed.xml" value="0.41770833333333335" />
