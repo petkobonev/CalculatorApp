@@ -12,12 +12,15 @@
         <entry key="app/src/awinta/res/layout/activity_master_slider.xml" value="0.48541666666666666" />
         <entry key="app/src/bdu/res/layout/activity_login.xml" value="0.44166666666666665" />
         <entry key="app/src/bdu/res/layout/activity_master_slider.xml" value="0.44166666666666665" />
+        <entry key="app/src/corporateSingleCore/res/layout/activity_login.xml" value="0.446875" />
         <entry key="app/src/corporateSingleCore/res/layout/activity_search.xml" value="0.3463541666666667" />
         <entry key="app/src/dvfa/res/mipmap-anydpi-v26/ic_app_launcher.xml" value="0.5" />
         <entry key="app/src/dvfa/res/mipmap-anydpi-v26/ic_app_launcher_round.xml" value="0.5" />
         <entry key="app/src/easy/res/drawable/app_logo_green.xml" value="0.5" />
         <entry key="app/src/lecturio/res/xml/preferences.xml" value="0.5" />
         <entry key="app/src/lecturiomed/res/xml/preferences.xml" value="0.4116847826086957" />
+        <entry key="app/src/main/res/drawable/border_light_gray.xml" value="0.46197916666666666" />
+        <entry key="app/src/main/res/drawable/button_primary.xml" value="0.46197916666666666" />
         <entry key="app/src/main/res/drawable/ic_android_debug_bridge.xml" value="0.3697916666666667" />
         <entry key="app/src/main/res/drawable/ic_assignment_completed.xml" value="0.41770833333333335" />
         <entry key="app/src/main/res/drawable/ic_baseline_info_24.xml" value="0.5" />
